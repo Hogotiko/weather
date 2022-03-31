@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .container{
+     margin: 30px auto;
+     padding-top: 20px;
+     max-width: 300px;
+     border: 2px double crimson;
+     border-radius: 15px;
+ }
+
+h1{
+    text-align: center;
+}
+.package-name {
+    margin: 30px auto;
+    text-align: center;
+    font-size: 2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: red;
+}
+
+.temp {
+    text-align: center;
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+}
+
+.disclaimer {
+    text-align: center;
+    font-size: 21px;
+    font-family: monospace;
+}
+
+.features li {
+    text-align: center;
+    padding: 10px;
+}
+
+.input {
+    margin: 20px auto;
+}
+
+.inp {
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    padding: 10px 0;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.buton-primary {
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    padding: 10px;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+}
